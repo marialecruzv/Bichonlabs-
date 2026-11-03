@@ -1,0 +1,15 @@
+# Bichon Labs
+
+> Estudio de producto digital en Chile. Diseñamos, desarrollamos y medimos páginas web y tiendas online para emprendimientos, para que aparezcan en Google, en Google Maps y en las respuestas de asistentes de IA.
+
+## Servicios
+- Presencia: web de una página con diseño a medida, botón de WhatsApp e Instagram, ficha de Google Maps y SEO básico. Desde $290.000 CLP, pago único.
+- Tienda: tienda online con catálogo, carrito, pagos con tarjeta y transferencia, y productos etiquetados para medir ventas. Desde $690.000 CLP, pago único.
+- Medición: Google Analytics 4, Google Tag Manager, etiquetado de botones y productos, y panel en Looker Studio. Precio a medida.
+
+## Para quién
+Emprendimientos pequeños de cualquier rubro (papelería creativa, desayunos a domicilio, terapias, pastelería, servicios profesionales) que no tienen tiempo, conocimiento técnico ni gran presupuesto para partir en Google.
+
+## Contacto
+- Web: https://bichonlabs.cl/
+- Instagram: https://www.instagram.com/bichonlabs/
